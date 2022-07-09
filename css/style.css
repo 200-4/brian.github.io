@@ -1344,20 +1344,26 @@ body.offcanvas {
   opacity: 0; }
   /*added css*/
   .social-icons li a {
-  width:36px;
-  height:42px;
-  display:inline-block;
-  line-height:30px;
-  text-align:center;
-  /*background: rgba(240, 248, 255, 0.9);*/
-  font-size:40px;
-  }
-  .social-icons li a i.fa-whatsapp{
-  color: #00FF00;
-  animation: bounce 2s ease-in-out infinite;
-  }
-  
-  
+	  width:28px;
+	  height:32px;
+	  display:inline-block;
+	  line-height:30px;
+	  text-align:center;
+	  /*background: rgba(240, 248, 255, 0.9);*/
+	  font-size:20px;
+	}
+	.social-icons li a i.fa-whatsapp{
+     	color: #0BDA51;
+        animation: bounce 2s ease-in-out infinite;
+	}
+	
+	.social-icons li a i.fa-twitter{
+	color: #6678E8;
+	}
+	
+	.social-icons li a i.fa-instagram{
+	   color: #fb3958;
+	}
   #social-icons {
   padding:0;
   position: fixed;
