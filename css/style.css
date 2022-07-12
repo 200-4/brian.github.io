@@ -1345,8 +1345,8 @@ body.offcanvas {
 
   /*added css*/
 .social-icons li a {
-	  width:28px;
-	  height:32px;
+	  width:40px;
+	  height:44px;
 	  display:inline-block;
 	  line-height:30px;
 	  text-align:center;
@@ -1362,9 +1362,6 @@ body.offcanvas {
 	color: #6678E8;
 	}
 	
-	.social-icons li a i.fa-instagram{
-	   color: #fb3958;
-	}
 	#social-icons {
 	padding:0;
 	position: fixed;
